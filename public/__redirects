@@ -2443,3 +2443,6 @@
 /ai-gateway/providers/* /ai-gateway/usage/providers/:splat 301
 /ai-gateway/guardrails/* /ai-gateway/features/guardrails/:splat 301
 /ai-gateway/websockets-api/* /ai-gateway/usage/websockets-api/:splat 301
+
+# Agents
+/agents/x402 /agents/agentic-payments/x402 301
